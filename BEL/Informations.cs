@@ -10,5 +10,6 @@ namespace BEL
     {
         
        //where you declare variables used in the application 
+       //no variables need to be displayed
     }
 }
